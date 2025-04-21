@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yanming Lei"
-description              : "Yanming Lei's page"
+title                    : "Kunzhong Wu"
+description              : "Kunzhong Wu's page"
 repository               : "ws-ucu/SpringDesigning.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Kunzhong Wu"
-  avatar           : "images/Yanming Lei.jpg"
+  avatar           : "images/Kunzhong Wu.jpg"
   bio              : "Shenzhen University"
   location         : "Shenzhen, China"
   employer         :
