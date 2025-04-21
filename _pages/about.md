@@ -20,4 +20,4 @@ redirect_from:
 
 # 📖 Educations
 - *2023.09 - 2026.07 (now)*, Master, Computer Science and Technology, Shenzhen University.
-- *2019.09 - 2023.07*, Bachelor, Mining Engineering, Wuhan University of Science and Technology.
+- *2019.09 - 2023.07*, Bachelor, Measurement and Control Technology and Instrument, Shenzhen University.
